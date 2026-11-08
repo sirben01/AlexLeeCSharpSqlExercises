@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AlexLeeDevExercises.Tests/AlexLeeDevExercises.UnitTests.csproj" />
+  <Project Path="AlexLeeDevExercises/AlexLeeDevExercises.csproj" />
+</Solution>
